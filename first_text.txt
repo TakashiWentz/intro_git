@@ -4,3 +4,4 @@ gitの基本を学んでいきます。
 ・git commit
 ・git rm
 ・git status
+・git diff
